@@ -1,0 +1,38 @@
+# Python 3.11.
+
+# Evaluation
+vllm==0.17.1
+transformers==4.57.6
+accelerate==1.13.0
+datasets
+modelscope
+backoff
+scipy
+nltk
+sympy==1.14.0
+antlr4-python3-runtime==4.11.0
+jsonlines
+func_timeout
+langdetect
+immutabledict
+thefuzz
+absl-py
+fire
+jupyter
+matplotlib
+gpustat
+wandb
+
+# Data generation
+pgmpy==1.1.0
+y0==0.2.11
+networkx==3.6.1
+numpy==2.2.6
+pandas==3.1.1
+tqdm
+tiktoken
+
+# Natural-language rendering through LLM APIs
+openai
+google-auth
+python-dotenv

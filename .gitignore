@@ -1,0 +1,17 @@
+# Downloaded UniCo prompt files. Get them with ./id_eval/scripts/download_unico_data.sh.
+data/unico/
+
+# Evaluation and generation outputs
+results/
+data_generation/generated_datasets/
+data_generation/dag_cache/
+data_generation/reference_datasets/
+
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
