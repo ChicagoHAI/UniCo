@@ -90,3 +90,7 @@ Results are averaged over three rounds. The final tables are in `./results/{id_e
   url={https://openreview.net/forum?id=MeL6BM40Ro}
 }
 ```
+
+## License
+
+The code in this repository is licensed under the [Apache License 2.0](LICENSE). The out-of-distribution benchmark files in `ood_eval/benchmarks/*/data/` follow the license of each original work. If you use our evaluation code on these benchmarks, please cite the original works, listed in [`ood_eval/README.md`](ood_eval/README.md#license-and-citation).
